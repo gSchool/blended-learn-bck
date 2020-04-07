@@ -26,3 +26,7 @@ Standards:
         Type: Checkpoint
         UID: f598b13df031705951e4a01c268d4ef4
         Path: /01-example-unit/03-checkpoint.md
+      -
+        Type: Lesson
+        UID: 160bf554008a517feb7ca49cbe307383
+        Path: /01-example-unit/04-quarantine-activity.md
